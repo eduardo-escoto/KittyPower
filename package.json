@@ -1,18 +1,30 @@
 {
   "name": "kittypower",
   "displayName": "KittyPower",
-  "description": "Theme made by calista",
+  "description": "TThis theme gives you the power of Kitties to accomplish all the work you have to do :)",
   "publisher": "Eduardo-Escoto",
   "repository": {
     "type": "git",
     "url": "https://github.com/eduardo-escoto/KittyPower.git"},
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "cat",
+    "kitty",
+    "kitten",
+    "kitties",
+    "pastel",
+    "aesthetic",
+    "cute",
+    "pretty",
+    "colorful",
+  ],
+  "icon": "./images/kitty.jpg",
   "contributes": {
     "themes": [
       {
