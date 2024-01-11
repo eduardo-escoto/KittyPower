@@ -6,7 +6,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/eduardo-escoto/KittyPower.git"},
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -24,7 +24,7 @@
     "pretty",
     "colorful"
   ],
-  "icon": "./images/kitty.jpg",
+  "icon": "images/kitty.jpg",
   "contributes": {
     "themes": [
       {
