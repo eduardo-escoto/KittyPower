@@ -2,9 +2,10 @@
   "name": "kittypower",
   "displayName": "KittyPower",
   "description": "Theme made by calista",
+  "publisher": "Eduardo-Escoto",
   "repository": {
     "type": "git",
-    "url": ""},
+    "url": "https://github.com/eduardo-escoto/KittyPower.git"},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
