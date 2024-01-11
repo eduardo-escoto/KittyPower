@@ -1,0 +1,24 @@
+{
+  "name": "kittypower",
+  "displayName": "KittyPower",
+  "description": "Theme made by calista",
+  "repository": {
+    "type": "git",
+    "url": ""},
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "KittyPower",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KittyPower-color-theme.json"
+      }
+    ]
+  }
+}
