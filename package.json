@@ -1,12 +1,12 @@
 {
   "name": "kittypower",
   "displayName": "Kitty Power",
-  "description": "This theme gives you the power of kitties to accomplish all the work you have to do :)",
+  "description": "This theme gives you the power of kitties to accomplish all the work you have to do :) Made by my girlfriend, Calista.",
   "publisher": "Eduardo-Escoto",
   "repository": {
     "type": "git",
     "url": "https://github.com/eduardo-escoto/KittyPower.git"},
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.85.0"
   },
